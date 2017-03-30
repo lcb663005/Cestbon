@@ -1,0 +1,18 @@
+.clear{clear: both;}
+.bn-right{margin-bottom: 85px;}
+.bn-right .life{width:697px;border-bottom: 1px solid #dadada;padding:65px 0 0 19px;margin-bottom: 54px;position: relative;}
+.bn-right .life .life-left{width:272px;padding: 0 29px 37px 13px;float: left;}
+.bn-right .life:after{content: "";position:absolute;width:3px;height: 13px;background-color:#201715;transform: skew(-45deg,0deg);bottom:-7px;left:167px;}
+.bn-right .life:before{content: "";position:absolute;width:3px;height: 13px;background-color:#201715;transform: skew(-45deg,0deg);bottom:-7px;left:553px;}
+.bn-right .life .life-left:first-child{margin-right: 69px;}
+.bn-right .life .life-left .re-icon{width: 62px;height: 36px;background-color:#dddee0;position: relative;margin: 18px auto;}
+.bn-right .life .life-left .re-icon:before{content: "";position: absolute;top:-18px;left: 0;width: 0;height: 0;border-left: 31px solid transparent;border-right: 31px solid transparent;border-bottom: 18px solid #dddee0;}
+.bn-right .life .life-left .re-icon:after{content: "";position: absolute;bottom:-18px;left: 0;width: 0;height: 0;border-left: 31px solid transparent;border-right: 31px solid transparent;border-top: 18px solid #dddee0;}
+.bn-right .re-icon img{margin: 0 auto;}
+.bn-right .life .life-left h4{font-size: 18px;line-height: 56px;color: #0c0c0c;text-align: center;margin-top: 47px;font-weight: normal;}
+.bn-right .life .life-left p{font-size:12px;line-height: 24px;color: #585858; }
+
+.bn-right .life .life-left:hover .re-icon{background-color: #b53852;}
+.bn-right .life .life-left:hover .re-icon:before{border-bottom: 18px solid #b53852;}
+.bn-right .life .life-left:hover .re-icon:after{border-top: 18px solid #b53852;}
+

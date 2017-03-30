@@ -1,0 +1,24 @@
+.banner{width: 1000px;margin: 0 auto;}
+.bn-left{float: left;height: 322px;padding-top: 39px;width: 254px;border-right: 1px solid #dadada;}
+.bn-left dt,.bn-left dd{padding-left: 24px;height: 45px;line-height: 45px;border-bottom: 1px solid #dadada;font-size: 14px;}
+.bn-left a{color: #b53852;}
+.bn-left dt a{position: relative;}
+.bn-left dt a i{position: absolute;left: -23px;top:7px;display:inline-block;width:10px;height:5px;overflow:hidden;font-size:12px;line-height:0;padding-left:7px;font-family:consolas;}
+.bn-left .active{background: #f0f0f0;}
+.bn-left .active a{color: #585858;}
+.bn-left dd:hover{background: #f0f0f0;}
+.bn-left dd:hover a{color: #585858;}
+
+
+.bn-right .profile p{padding-top: 58px;font-size: 14px;color: #585858;line-height: 22px;}
+
+.bn-right .wire{width: 694px;height: 6px;background-color: #b53852;margin-top: 12px;margin-left: 4px;}
+.bn-right .pro-logo img{margin-left: 185px;margin-top: 78px;margin-bottom: 34px;}
+.bn-right .pro-about{height: 424px;margin-top: 34px;margin-bottom: 9px;width: 708px;position: relative;}
+.bn-right .pro-about p{font-size: 14px;color: #585858;width: 225px;height: 134px;position: absolute;
+    top: 80px;left: 0;line-height: 22px;}
+.bn-right .pro-about img{position: absolute;top: -94px;right: -68px;}
+.bn-right .pro-about-l{float: left;width: 336px;margin-bottom: 108px;}
+.bn-right .pro-about-l p{font-size: 14px;color: #585858;line-height: 22px;margin-top: 20px;}
+.bn-right .pro-about-r{float: right;width: 336px;margin-bottom: 108px;margin-right: 14px;}
+.bn-right .pro-about-r p{font-size: 14px;color: #585858;line-height: 22px;margin-top: 20px;}

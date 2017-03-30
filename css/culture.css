@@ -1,0 +1,49 @@
+.banner{width: 1000px;margin: 0 auto;}
+.bn-left{float: left;height: 322px;padding-top: 39px;width: 254px;border-right: 1px solid #dadada;}
+.bn-left dt,.bn-left dd{padding-left: 24px;height: 45px;line-height: 45px;border-bottom: 1px solid #dadada;font-size: 14px;}
+.bn-left a{color: #b53852;}
+.bn-left dt a{position: relative;}
+.bn-left dt a i{position: absolute;left: -23px;top:7px;display:inline-block;width:10px;height:5px;overflow:hidden;font-size:12px;line-height:0;padding-left:7px;font-family:consolas;}
+.bn-left .active{background: #f0f0f0;}
+.bn-left .active a{color: #585858;}
+.bn-left dd:hover{background: #f0f0f0;}
+.bn-left dd:hover a{color: #585858;}
+
+.bn-right .business{margin-top: 50px;}
+.bn-right .business h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .business p{font-size: 14px;color: #585858;margin-bottom: 53px;}
+.bn-right .value h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .value span{font-size: 14px;color: #000;line-height: 22px;}
+.bn-right .value p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .lead h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .lead p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .host h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .host p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .integrity h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .integrity p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .win h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .win p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .trust h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .trust p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .tenet h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .tenet p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .respect h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .respect p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .correlation h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .correlation p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .work h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .work p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .innovate h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .innovate p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .importance h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .importance p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .speciality h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .speciality p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .best h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .best p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .life h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .life p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .target h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .target p{font-size: 14px;color: #585858;margin-bottom: 53px;line-height: 22px;}
+.bn-right .promise h4{font-size: 18px;color: #b53852;font-weight: normal;margin-bottom: 22px;}
+.bn-right .promise p{font-size: 14px;color: #585858;margin-bottom: 71px;line-height: 22px;}

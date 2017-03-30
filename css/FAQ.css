@@ -1,0 +1,24 @@
+.banner{width: 1000px;margin: 0 auto;}
+.bn-left{float: left;height: 322px;padding-top: 39px;width: 254px;border-right: 1px solid #dadada;}
+.bn-left dt,.bn-left dd{padding-left: 24px;height: 45px;line-height: 45px;border-bottom: 1px solid #dadada;font-size: 14px;}
+.bn-left a{color: #b53852;}
+.bn-left dt a{position: relative;}
+.bn-left dt a i{position: absolute;left: -23px;top:7px;display:inline-block;width:10px;height:5px;overflow:hidden;font-size:12px;line-height:0;padding-left:7px;font-family:consolas;}
+.bn-left .active{background: #f0f0f0;}
+.bn-left .active a{color: #585858;}
+.bn-left dd:hover{background: #f0f0f0;}
+.bn-left dd:hover a{color: #585858;}
+
+
+.bn-right .bg-main-top{padding-top: 58px;}
+.bn-right .bg-main-top li h4{font-size: 18px;color: #b53852;font-weight: normal;}
+.bn-right .bg-main-top li p{font-size: 14px;color: #585858;padding-top: 22px;}
+.bn-right .bg-main-top li img{padding-top: 22px;}
+.bn-right .bg-main-brand li h4{font-size: 18px;color: #b53852;font-weight: normal;padding-top: 32px;}
+.bn-right .bg-main-brand li p{font-size: 14px;color: #585858;padding-top: 22px;line-height: 22px;}
+.bn-right .bg-main-contact li h4{font-size: 18px;color: #b53852;font-weight: normal;padding-top: 52px;}
+.bn-right .bg-main-contact li p{font-size: 14px;color: #585858;padding-top: 22px;}
+.bn-right .bg-main-work li h4{font-size: 18px;color: #b53852;font-weight: normal;padding-top: 52px;}
+.bn-right .bg-main-work li p{font-size: 14px;color: #585858;padding-top: 22px;}
+.bn-right .bg-main-problem li h4{font-size: 18px;color: #b53852;font-weight: normal;padding-top: 52px;}
+.bn-right .bg-main-problem li p{font-size: 14px;color: #585858;padding-top: 22px;padding-bottom: 85px;}

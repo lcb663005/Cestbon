@@ -1,0 +1,9 @@
+.bn-right ul{margin-top: 65px;padding: 0 40px 0 11px;margin-bottom: 275px;}
+.bn-right li{height: 152px;width: 82px;float: left;text-align: center;margin:0 68px 68px;position: relative;}
+.bn-right li .smpic{width:80px;height: 80px;border: 1px solid #dadada;border-radius: 40px;line-height: 80px;}
+.bn-right li .smpic img{margin:28px auto; }
+.bn-right li h6{height:70px;line-height: 70px;color:#585858;font-size: 18px;font-weight: normal;}
+.bn-right li .wire{position: absolute;width: 138px;height: 1px;left: 81px;top:40px;background-color:#dadada; }
+.bn-right .three .wire{width:40px;}
+.bn-right .four{margin-left: 180px;}
+.bn-right .four .wire-1{width:40px;left: -40px;}

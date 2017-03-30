@@ -1,0 +1,34 @@
+.clear{clear: both;}
+.banner{height: 906px;position: relative;width: 100%;}
+.inner{width: 1000px;margin: 0 auto;}
+.banner-1{width: 1453px;height: 906px;margin-left: -453px;}
+.banner-1-left{float: left;width: 906px;height: 906px;overflow: hidden;}
+.banner-1-right{float: left;width: 400px;margin: 189px 0 0 48px;color: #0e0e0e;}
+.banner-1-right h4{font-size: 24px;line-height:36px;font-weight: normal;}
+.banner-1-right h5{font-size: 34px;line-height:48px;font-weight: normal;}
+
+.banner-2{width: 50%;padding-right: 649px;margin-left:50%;height: 603px;background-color: #1c1c1c;opacity: 0.89;position: absolute;bottom: 0;left: -649px;}
+.ban2-inner{width: 1149px;position: absolute;top:0;left: 0;}
+.ban2-inner img{float: left;margin: 205px 90px 280px 50px;}
+.ban2-inner p{color: #fff;opacity: 0.6;font-size: 14px;line-height: 28px;margin-top: 60px;}
+
+.main{border-bottom: 1px solid #dadada;margin:148px 0 15px 0; }
+.main .inner{position: relative;}
+.main .left{width:418px;padding: 0 16px 60px;float: left;margin: 0 16px;}
+.main .inner:after{content: "";position:absolute;width:3px;height: 13px;background-color:#201715;transform: skew(-45deg,0deg);bottom:-7px;left:241px;}
+.main .inner:before{content: "";position:absolute;width:3px;height: 13px;background-color:#201715;transform: skew(-45deg,0deg);bottom:-7px;left:721px;}
+.main .left .re-icon{width: 120px;height: 70px;background-color:#dddee0;position: relative;margin: 35px auto;}
+.main .left .re-icon:before{content: "";position: absolute;top:-35px;left: 0;width: 0;height: 0;border-left: 60px solid transparent;border-right: 60px solid transparent;border-bottom: 35px solid #dddee0;}
+.main .left .re-icon:after{content: "";position: absolute;bottom:-35px;left: 0;width: 0;height: 0;border-left: 60px solid transparent;border-right: 60px solid transparent;border-top: 35px solid #dddee0;}
+.main .re-icon img{margin: 0 auto;padding-top: 19px;}
+.main .left h4{font-size: 24px;line-height: 68px;color: #0f0f0f;text-align: center;margin-top: 47px;font-weight: normal;}
+.main .left p{font-size:14px;line-height: 28px;color: #585858;text-align: center; }
+
+.public-footer{margin-top: 183px;}
+
+.main .left:hover .re-icon{background-color: #b53852;}
+.main .left:hover .re-icon:before{border-bottom: 35px solid #b53852;}
+.main .left:hover .re-icon:after{border-top: 35px solid #b53852;}
+
+
+
